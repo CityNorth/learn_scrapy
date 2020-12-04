@@ -88,4 +88,4 @@ def login(username, password):
 
 
 if __name__ == '__main__':
-    login('13122282051', 'jiang120')
+    login('13122282051', '***')
