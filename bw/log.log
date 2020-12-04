@@ -1,0 +1,68 @@
+2020-11-23 18:23:51 [py.warnings] WARNING: C:\Users\Jarvis\AppData\Local\Programs\Python\Python39\lib\site-packages\scrapy\pipelines\media.py:135: ScrapyDeprecationWarning: file_path(self, request, response=None, info=None) is deprecated, please use file_path(self, request, response=None, info=None, *, item=None)
+  self._check_signature(func)
+
+2020-11-23 18:23:51 [bw.spiders.bw5] WARNING: {'image_urls': ['https://car2.autoimg.cn/cardfs/product/g1/M08/F1/AF/240x180_0_q95_c42_autohomecar__ChsEmV9q-nqAArcoADS5IvOESDE326.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g29/M07/D2/73/240x180_0_q95_c42_autohomecar__ChsEfl9q-nqAGYnBADekE-fKYOU280.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g29/M04/D2/73/240x180_0_q95_c42_autohomecar__ChsEfl9q-nmAKeIoADo6VcHS-YM887.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g30/M09/06/53/240x180_0_q95_c42_autohomecar__ChwFlF9q-nmAeed6ADUCn5qHUso595.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g30/M09/CB/2E/240x180_0_q95_c42_autohomecar__ChsEf19q-niAfxUuAD5hGlzo0E8450.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g1/M02/F9/B0/240x180_0_q95_c42_autohomecar__ChwFqV9q-niAZ7uFADmREzbaBgs525.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g29/M08/D1/2D/240x180_0_q95_c42_autohomecar__ChsEn19q-neAQ37xADnU7W6jXos986.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g3/M02/0E/19/240x180_0_q95_c42_autohomecar__ChsEm190T_uAdgGJACcWVTXRC8c576.jpg'],
+ 'title': '车身外观'}
+2020-11-23 18:23:51 [bw.spiders.bw5] WARNING: {'image_urls': ['https://car3.autoimg.cn/cardfs/product/g24/M04/1E/A5/240x180_0_q95_c42_autohomecar__ChwFjl9q-eGAZoKEAD3nSrFdI5g559.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g24/M02/8B/BB/240x180_0_q95_c42_autohomecar__ChsEl19q-eCAOsIcACACiCUPL5s645.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g24/M01/8B/BB/240x180_0_q95_c42_autohomecar__ChsEl19q-eCAUA68ADnOzRIElXA786.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g24/M0A/8B/BB/240x180_0_q95_c42_autohomecar__ChsEl19q-d-AFW5sABz4NNGEKZk734.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g24/M03/99/50/240x180_0_q95_c42_autohomecar__ChsEeV9q-d-AYj9SADOeE5mQtdA727.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g28/M06/CE/C0/240x180_0_q95_c42_autohomecar__ChsEnl9q-d6ABgq3AC6ua_8NJPo686.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g30/M0B/06/4C/240x180_0_q95_c42_autohomecar__ChwFlF9q-d6AdNOyADsvGRkKzGQ764.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g30/M04/CB/28/240x180_0_q95_c42_autohomecar__ChsEf19q-d2AReTxADUwT_82A6A311.jpg'],
+ 'title': '中控方向盘'}
+2020-11-23 18:23:51 [bw.spiders.bw5] WARNING: {'image_urls': ['https://car2.autoimg.cn/cardfs/product/g3/M00/E6/B3/240x180_0_q95_c42_autohomecar__ChsEkV9q-ieAHp0fAChBj8r44aY733.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g3/M0A/E6/B2/240x180_0_q95_c42_autohomecar__ChsEkV9q-iaAMHFkACfrynrzr20520.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g3/M04/F3/6B/240x180_0_q95_c42_autohomecar__ChwFlV9q-iaAMQuLADj2pzHxKg4537.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g3/M09/F3/6B/240x180_0_q95_c42_autohomecar__ChwFlV9q-iWALbLJADn3J4V-9aU218.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g25/M04/2B/E3/240x180_0_q95_c42_autohomecar__ChsEmF9q-iSAF0_UAD4QJPFmu3I165.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g25/M0B/2B/E3/240x180_0_q95_c42_autohomecar__ChsEmF9q-iSATIilADuiG4o1KPI919.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g25/M08/2B/E3/240x180_0_q95_c42_autohomecar__ChsEmF9q-iOAZRWPADg_bPvq7Eo707.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g3/M0A/E6/B2/240x180_0_q95_c42_autohomecar__ChsEkV9q-iKAP6YIADx0PBcekfE069.jpg'],
+ 'title': '车厢座椅'}
+2020-11-23 18:23:51 [bw.spiders.bw5] WARNING: {'image_urls': ['https://car3.autoimg.cn/cardfs/product/g29/M00/D2/73/240x180_0_q95_c42_autohomecar__ChsEfl9q-neABKLSACvlUL_4amc228.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g1/M08/E9/5C/240x180_0_q95_c42_autohomecar__ChsEj19q-naASOYqABnTt4ol6mM913.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g1/M00/F1/AE/240x180_0_q95_c42_autohomecar__ChsEmV9q-nWAA1teADlKYN-l45w092.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g1/M03/F1/AE/240x180_0_q95_c42_autohomecar__ChsEmV9q-nWAKUK_ADfPzV_wz2s364.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g1/M02/F9/B0/240x180_0_q95_c42_autohomecar__ChwFqV9q-nSAIwPcADsTH3XfiYA586.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g30/M06/06/51/240x180_0_q95_c42_autohomecar__ChwFlF9q-m6Ac-CAADV_b8BwoCI335.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g30/M02/CB/2D/240x180_0_q95_c42_autohomecar__ChsEf19q-m6AfcrpAC0vi95gX0A969.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g1/M04/F1/AD/240x180_0_q95_c42_autohomecar__ChsEmV9q-m2AHTD8ADcSvrg3fJM821.jpg'],
+ 'title': '其它细节'}
+2020-11-23 18:23:51 [bw.spiders.bw5] WARNING: {'image_urls': ['https://car2.autoimg.cn/cardfs/product/g29/M06/E3/F1/240x180_0_q95_c42_autohomecar__ChwFk19i8ESAWNusAAWLBCU8f3I054.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g26/M04/A6/16/240x180_0_q95_c42_autohomecar__ChsEe19i2CGAYs9BAAWLBCU8f3I965.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g26/M00/F7/7E/240x180_0_q95_c42_autohomecar__ChwFkF9i1_eAeCVjAAWLBCU8f3I390.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g3/M04/B6/12/240x180_0_q95_c42_autohomecar__ChsEkV9i1_aAGvkbAAjrWkIbenc867.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g26/M06/F7/7E/240x180_0_q95_c42_autohomecar__ChwFkF9i1_aAJ7wlAAcMdT0s1DQ914.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g3/M0A/C2/A4/240x180_0_q95_c42_autohomecar__ChwFlV9i1_aABNvvAAV7m5gtvKw080.jpg'],
+ 'title': '官图'}
+2020-11-23 18:23:51 [bw.spiders.bw5] WARNING: {'image_urls': ['https://car2.autoimg.cn/cardfs/product/g29/M08/D3/AC/240x180_0_q95_c42_autohomecar__ChsEn1-ZQA6AHk0nAB4QZ0mD3nk359.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g29/M02/D3/AC/240x180_0_q95_c42_autohomecar__ChsEn1-ZQA2AfVeLABwul_umnXU150.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g29/M04/D4/72/240x180_0_q95_c42_autohomecar__ChsEfl-ZQAyAS-JSABsBaGzNQpQ460.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g29/M0A/D4/72/240x180_0_q95_c42_autohomecar__ChsEfl-ZQAuAOdZJABzrYjnGzaY445.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g29/M00/16/4B/240x180_0_q95_c42_autohomecar__ChwFk1-ZQAmAfpj1ABe08_-9MJs043.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g29/M09/16/4B/240x180_0_q95_c42_autohomecar__ChwFk1-ZQAmAYpJeABiD7h7BL4g786.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g29/M06/16/4B/240x180_0_q95_c42_autohomecar__ChwFk1-ZQAiAemZ_ABwv8wHK5mU872.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g29/M04/D3/AB/240x180_0_q95_c42_autohomecar__ChsEn1-ZQAeAJofWABjl0VkWTCo616.jpg'],
+ 'title': '评测'}
+2020-11-23 18:23:51 [bw.spiders.bw5] WARNING: {'image_urls': ['https://car3.autoimg.cn/cardfs/product/g26/M04/A4/0E/240x180_0_q95_c42_autohomecar__ChsEnF-QQeSAM4gQAAUQWMg2FTY363.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g24/M06/64/EB/240x180_0_q95_c42_autohomecar__ChsEeV-QEZaAJpurAAmu9-cuJ60157.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g24/M0B/EA/4A/240x180_0_q95_c42_autohomecar__ChwFjl-QEZWAM01RAAgNJEjtv_w293.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g1/M03/BC/EB/240x180_0_q95_c42_autohomecar__ChsEmV-QD-OAXp5cAAd53cC59is312.jpg',
+                'https://car3.autoimg.cn/cardfs/product/g28/M0B/99/0A/240x180_0_q95_c42_autohomecar__ChsEfV-QD-KAWEQbAATK4YF8QK0115.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g28/M02/99/70/240x180_0_q95_c42_autohomecar__ChsEnl-QD-KAdK1wAAf1iJrjt2Q771.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g28/M0A/DE/FE/240x180_0_q95_c42_autohomecar__ChwFkl-QD-KAH8d6AAjMw687tac875.jpg',
+                'https://car2.autoimg.cn/cardfs/product/g24/M09/EA/43/240x180_0_q95_c42_autohomecar__ChwFjl-QD-GAfeBwAAq9afHSjM4027.jpg'],
+ 'title': '重要特点'}
+2020-11-23 18:23:51 [bw.spiders.bw5] WARNING: {'image_urls': [], 'title': '改装'}
+2020-11-24 15:41:40 [py.warnings] WARNING: c:\users\jarvis\appdata\local\programs\python\python39\lib\site-packages\scrapy\pipelines\media.py:135: ScrapyDeprecationWarning: file_path(self, request, response=None, info=None) is deprecated, please use file_path(self, request, response=None, info=None, *, item=None)
+  self._check_signature(func)
+
